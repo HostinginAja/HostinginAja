@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [base.hostinginaja.id](base.hostinginaja.id)
 
-- 💬 Ask me about **react, html, php, javascript, java, C, arduino**
+- 💬 Ask me about **react, php, javascript, java, C, arduino**
 
 - 📫 How to reach me **support@hostinginaja.id**
 
