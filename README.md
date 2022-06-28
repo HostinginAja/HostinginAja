@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/NNBGxmV/Hostingin-AJA-1.gif)](https://hostinginaja.id)
 <h1 align="center">Hi 👋,We're HostinginAja</h1>
-<h3 align="center">the most complete hosting & domain service provider in Indonesia at an affordable price, and we provide developing website and bug hunting services</h3>
+<h3 align="center">The most complete hosting & domain service provider in Indonesia at an affordable price, and we provide developing website and bug hunting services</h3>
 <img align="right" alt="Coding" height="350" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hostinginaja&label=Profile%20views&color=0e75b6&style=flat" alt="hostinginaja" /> </p>
