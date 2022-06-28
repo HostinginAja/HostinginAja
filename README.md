@@ -13,7 +13,7 @@
 
 - 📝 We regularly write articles on [base.hostinginaja.id](base.hostinginaja.id)
 
-- 💬 Ask us about **react, php, javascript, java, C, arduino**
+- 💬 Ask us about **React, PHP, JS, java, C, Arduino**
 
 - 📫 How to reach us **support@hostinginaja.id**
 
