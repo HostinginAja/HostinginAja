@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hostinginaja&label=Profile%20views&color=0e75b6&style=flat" alt="hostinginaja" /> </p>
 
-- 🔭 I’m currently working on **Game Suwit**
+- 🔭 We're currently working on **Game Suwit**
 
-- 🌱 I’m currently learning **Codeigniter,Laravel**
+- 🌱 We're currently learning **Codeigniter,Laravel**
 
-- 👨‍💻 All of my projects are available at [dev.hostinginaja.id](dev.hostinginaja.id)
+- 👨‍💻 All of our projects are available at [dev.hostinginaja.id](dev.hostinginaja.id)
 
-- 📝 I regularly write articles on [base.hostinginaja.id](base.hostinginaja.id)
+- 📝 We regularly write articles on [base.hostinginaja.id](base.hostinginaja.id)
 
-- 💬 Ask me about **react, php, javascript, java, C, arduino**
+- 💬 Ask us about **react, php, javascript, java, C, arduino**
 
-- 📫 How to reach me **support@hostinginaja.id**
+- 📫 How to reach us **support@hostinginaja.id**
 
-- 📄 Know about my experiences [dev.hostinginaja.id/harumi](dev.hostinginaja.id/harumi)
+- 📄 Know about our experiences [dev.hostinginaja.id/harumi](dev.hostinginaja.id/harumi)
 
 - ⚡ Fun fact **We're happy**
 
