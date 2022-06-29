@@ -28,6 +28,6 @@
 <a href="https://www.youtube.com/c/hostinginaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hostinginaja" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hostinginaja&show_icons=true&locale=en&layout=compact" alt="hostinginaja" /></p>
+<p><img align="left" src="" alt="hostinginaja" /></p>
 
 <p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hostinginaja&show_icons=true&locale=en" alt="hostinginaja" /></p>
